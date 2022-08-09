@@ -1,21 +1,3 @@
 Name: Ironhacker - Vansev
 Age: 31
-Favorite Color: Blue
-
-Initialize a repository
-$ git init
-
-View changes in the repository
-$ git status
-
-Adding files
-single file
-$ git add <file-name>
-all files
-$ git add .
-
-Committing file(s) to staging area
-$ git commit -m"<commit-message>"
-
-View changes history
-$ git log
+Favorite Color: lightBlue
